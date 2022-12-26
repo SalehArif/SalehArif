@@ -1,7 +1,7 @@
-![MasterHead](https://www.netsolutions.com/assets/images/software-dev-hub-banner-img.webp)
+![MasterHead](https://www.clipartmax.com/png/middle/342-3426929_mobile-development-syslogyx-technologies-pvt-ltd-with-website-and-mobile-app-development.png)
 <h1 align="center">Hello, I'm Saleh Arif</h1>
 <h3 align="center">A passionate Mern Stack and Mobile developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bN65M.gif">
+<img align="right" alt="Coding" width="400" src="https://www.clipartmax.com/png/middle/342-3426929_mobile-development-syslogyx-technologies-pvt-ltd-with-website-and-mobile-app-development.png">
 
 - 🔭 I’m currently working on **Inland Freight and Logistics System**
 
