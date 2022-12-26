@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🔭 I’m currently working on **Inland Freight and Logistics System**
 
-- 💬 Ask me about **Node.js, React Native, Express, Mongo.Db, React**
+- 💬 Ask me about **Node.js, React Native, React, Express, Mongo.Db**
 
 - 📫 How to reach me **saleharif209@gmail.com**
 
