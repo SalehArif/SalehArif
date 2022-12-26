@@ -1,4 +1,4 @@
-![MasterHead](https://www.netsolutions.com/assets/images/custom-software-dev-hub-img.webp)
+![MasterHead](https://www.netsolutions.com/assets/images/software-dev-hub-banner-img.webp)
 <h1 align="center">Hello, I'm Saleh Arif</h1>
 <h3 align="center">A passionate Mern Stack and Mobile developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/bN65M.gif">
