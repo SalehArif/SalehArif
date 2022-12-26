@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Saleh Arif</h1>
 <h3 align="center">A passionate Mern Stack and Mobile developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🔭 I’m currently working on **Inland Freight and Logistics System**
 
 - 💬 Ask me about **Node.js, React Native, Express, Mongo.Db, React**
