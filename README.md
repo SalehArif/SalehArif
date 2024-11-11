@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on **ASM**
+- 🔭 I’m currently working on **Racid (ASM)**
 
 - 💬 Ask me about **Node.js, React Native, React, Express, Mongo.Db**
 
